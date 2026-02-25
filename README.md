@@ -36,3 +36,4 @@ From [mosse/examples/filtertest_gum.html at master · auduno/mosse](https://gith
     const worker = new Worker('myworkerurl.js');
     worker.postMessage({canvas: offscreen}, [offscreen]);
     ```
+- [Manipulating video using canvas - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Manipulating_video_using_canvas)
